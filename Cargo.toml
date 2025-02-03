@@ -1,0 +1,7 @@
+[package]
+name = "socketpair-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+socketpair = { version="0.19.5", optional=true }
